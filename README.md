@@ -1,1 +1,2 @@
-Kikin Project
+Kikin-Project
+This is a Kikin.io clone
